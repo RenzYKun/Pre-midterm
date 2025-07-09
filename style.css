@@ -182,17 +182,14 @@ background-color: #e60073;
     }
 
     .card {
-    background: white;
-    border: 2px solid #ccc;
-    padding: 20px;
-    border-radius: 6px;
-    box-shadow: 2px 2px 6px rgba(0,0,0,0.1);
-    position: relative;
-    bottom: 30px;
-    left: 50px;
-    font-family: "Inter", sans-serif;
-    font-optical-sizing: auto;
-    font-style: normal;
+      background: white;
+      border: 2px solid #ccc;
+      padding: 20px;
+      border-radius: 6px;
+      box-shadow: 2px 2px 6px rgba(0,0,0,0.1);
+      position: relative;
+      bottom: 30px;
+      left: 50px;
     }
 
     .tag {
@@ -239,7 +236,7 @@ background-color: #e60073;
       position: relative;
       bottom: 19rem;
       left: 6rem;
- 
+  
     }
 
   .info-section {
@@ -300,7 +297,7 @@ background-color: #e60073;
   right: 5rem;
   display: block;
   top: 1rem;
- 
+  
 }
 
 .info-image img {
@@ -312,7 +309,7 @@ background-color: #e60073;
   width: 1685px;
   position: relative;
   right: 1.5rem;
- 
+  
 }
 .Join {
   position: relative;
@@ -483,19 +480,70 @@ bottom: 28rem;
 }
 
 .Sign{
-    position: relative;
-    background: #FFBE0B;
-    color: #FF1862;
-    font-size: 24px;
-    text-align: center;
-    width: 121px;
-    height: 44px;
-    bottom: 27rem;
-    left: 3rem;
-    border-radius: 5px;
-    line-height: 2.8rem;
+  position: relative;
+  background: #FFBE0B;
+  color: #FF1862;
+  font-size: 24px;
+  text-align: center;
+  width: 121px;
+  height: 44px;
+  bottom: 27rem;
+  left: 3rem;
+  border-radius: 5px;
+  line-height: 2.8rem;
 
 }
-.info{
-    text-align: justify;
+
+.last{
+  position: relative;
+  top: 5rem;
+  left: 0.5rem;
+  width: 1350px;
+}
+
+.Academix{
+  position: relative;
+  top: 31rem;
+  right: 63.5rem;
+}
+
+.Acad{
+  font-weight: bold;
+  font-size: 24PX;
+  position: relative;
+  color: black;
+  bottom: 25rem;
+  left: 70rem;
+}
+.Mix{
+  background-color: black;
+  color: white;
+  padding: 4px;
+  font-size: 24px;
+  border-radius: 5px;
+}
+
+.from{
+  position: relative;
+  top: 5rem;
+  color: black;
+  left: 6.5rem;
+  font-size: 14px;
+}
+.Powered{
+  position: relative;
+  left: 45rem;
+  top: 2.5rem;
+  width: 151px;
+  font-size: 14px;
+  text-align: center;
+  font-weight: 400;
+}
+
+.All{
+  position: relative;
+  left: 40rem;
+  top: 2.5rem;
+  font-size: 14px;
+  font-weight: 400;
 }
